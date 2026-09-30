@@ -1,11 +1,22 @@
 <div align="center">
 
-  # 👋 Hey there, I'm Parth Khairnar!
-  ### 🚀 Full-Stack Developer | React.js, Node.js & AI Integrations
+  <!-- Animated Header Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=👋+Hey+there!+I'm+Parth+Khairnar;🚀+Full-Stack+%26+AI+Developer;💡+Building+Intelligent+Web+Systems" alt="Typing SVG" />
+  </a>
 
-  [![Followers](https://img.shields.io/github/followers/ParthKhairnar20?style=for-the-badge&logo=github&color=6e5494)](https://github.com/ParthKhairnar20)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parth-khairnar-bb8629315)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkhairnar333@gmail.com)
+  <br />
+
+  <!-- Animated Dynamic Badges -->
+  <a href="https://github.com/ParthKhairnar20">
+    <img src="https://img.shields.io/github/followers/ParthKhairnar20?style=for-the-badge&logo=github&color=6e5494&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://linkedin.com/in/parth-khairnar-bb8629315">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parthkhairnar333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 </div>
 
@@ -22,30 +33,22 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" alt="Frontend Icons" />
+</p>
 
 ### ⚙️️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,py,c,cpp" alt="Backend Icons" />
+</p>
 
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🔧 Developer Tools & Ecosystem
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools Icons" />
+</p>
 
 ---
 
@@ -53,15 +56,37 @@
 
 | Project | Key Features | Tech Stack |
 | :--- | :--- | :--- |
-| 🧠 **[StudyAi](https://github.com/ParthKhairnar20/StudyAi)** | AI-assisted educational platform for auto-generating quizzes, Q&A, and tracking learning progress with Supabase RLS security. | React.js, TypeScript, Tailwind, Supabase, OpenAI API |
-| 🍽️ **[Digital Menu Card System](https://github.com/ParthKhairnar20)** | Full-stack digital menu with real-time CRUD operations for restaurant admins without page reloads. | React.js, Node.js, Express.js, PostgreSQL |
-| 🗺️ **[CodeAtlas AI](https://github.com/ParthKhairnar20/codeatlas-ai)** | Code visualization and navigation assistant for developer workflows. | React, JavaScript, AI Tools |
+| 🧠 **[StudyAi](https://github.com/ParthKhairnar20/StudyAi)** | AI-assisted educational platform for auto-generating quizzes, Q&A, and tracking learning progress with Supabase RLS security. | `React.js` `TypeScript` `Tailwind` `Supabase` `OpenAI API` |
+| 🍽️ **[Digital Menu Card System](https://github.com/ParthKhairnar20)** | Full-stack digital menu with real-time CRUD operations for restaurant admins without page reloads. | `React.js` `Node.js` `Express.js` `PostgreSQL` |
+| 🗺️ **[CodeAtlas AI](https://github.com/ParthKhairnar20/codeatlas-ai)** | Code visualization and navigation assistant for developer workflows. | `React` `JavaScript` `AI Tools` |
 
 ---
 
 ## ⚡ GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthKhairnar20&show_icons=true&theme=dark" alt="Parth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKhairnar20&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+
+  <br />
+
+  <!-- Animated Contribution Graph / Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthKhairnar20&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+  
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthKhairnar20&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Parth's GitHub Stats" width="48%" />
+
+  <br /><br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthKhairnar20&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" alt="Top Languages" width="60%" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💬 Let's Connect & Build Something Productive Together!
+  
+  [![Visitor Count](https://profile-counter.glitch.me/ParthKhairnar20/count.svg)](https://github.com/ParthKhairnar20)
+
+</div>
