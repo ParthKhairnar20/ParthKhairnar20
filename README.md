@@ -7,6 +7,9 @@
 
   <!-- Professional Title -->
   <h1>Parth Khairnar</h1>
+  <a href="https://github.com/ParthKhairnar20?tab=followers">
+  <img src="https://img.shields.io/github/followers/ParthKhairnar20?label=Follow%20%40ParthKhairnar20&style=for-the-badge&logo=github&color=6e5494&logoColor=white" alt="Follow Parth on GitHub" />
+</a>
   <h3>Software Engineer | Full-Stack & Systems Developer</h3>
 
   <!-- Dynamic Typing Microanimation -->
