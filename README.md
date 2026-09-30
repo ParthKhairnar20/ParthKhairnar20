@@ -20,8 +20,9 @@
   <a href="https://github.com/ParthKhairnar20">
     <img src="https://img.shields.io/github/followers/ParthKhairnar20?style=for-the-badge&logo=github&color=6e5494&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://linkedin.com/in/parth-khairnar-bb8629315">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/parth-khairnar-bb8629315" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   </a>
   <a href="mailto:parthkhairnar333@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
