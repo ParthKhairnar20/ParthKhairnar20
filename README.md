@@ -1,11 +1,19 @@
 <div align="center">
 
-  <!-- Clean Native Header -->
-  <h1>👋 Hey there, I'm Parth Khairnar!</h1>
-  <h3>🚀 Full-Stack & AI Developer | Building Intelligent Systems</h3>
-  <p><b>React.js • Node.js • Express • PostgreSQL • Tailwind CSS</b></p>
+  <!-- Top Microanimation GIF Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation Banner" />
 
-  <br />
+  <br /><br />
+
+  <!-- Title -->
+  <h1>👋 Hey there, I'm Parth Khairnar!</h1>
+
+  <!-- Dynamic Typing Microanimation -->
+  <a href="https://github.com/ParthKhairnar20">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+%26+AI+Developer;Building+Intelligent+Web+Systems;React.js+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
 
   <!-- Action Badges -->
   <a href="https://github.com/ParthKhairnar20">
@@ -37,7 +45,7 @@
   <hr width="80%" />
   <br />
 
-  <!-- Dynamic Icon Grid Tech Stack -->
+  <!-- Tech Stack -->
   <h2>🛠️ Tech Stack & Skills</h2>
   <br />
 
